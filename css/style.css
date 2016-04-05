@@ -1,0 +1,99 @@
+h4{
+	position: relative;
+	left: 30px;
+	top: 10px;
+}
+.buscador{
+	position: relative;
+	left: 800px;
+	bottom: 70px;
+}
+.logoPequeno{
+	width: 100px;
+	height: 100px;
+	position: relative;
+	bottom: 390px;
+	left: 400px;
+}
+.grande{
+width: 90%;
+}
+
+.Galeria{
+	display: inline-block;
+	background-color: yellow;
+	padding-bottom: 40px;
+	padding-top: 40px;
+	padding-left: 20px;
+	padding-right: 60px;
+
+}
+.imagenesPequenas{
+	width: 180px;
+	height: 180px;
+	margin: 10px;
+}
+h2{
+    font-size: 35px;
+	color: white;
+	font-family: arial;
+	margin-top: 20px;
+	display: inline-block;
+}
+
+.btnTitulo{
+	color: #49CF0D;
+	background-color: #464242;
+	border-color: #49CF0D;
+	padding-bottom: 8px;
+	padding-top: 8px;
+	padding-left: 7px;
+	padding-right: 7px;
+	border-radius: 8px;
+	font-size: 10px;
+}
+h5{
+	color: white;
+	font-family: arial;
+	font-size: 10px;
+	text-align: left;
+	float: right;
+	position: relative;
+}
+.detalle li{
+	color: white;
+	font-family: Arial;
+	font-size: 10px;
+	text-decoration: none;
+	text-align: left;
+}
+
+p{
+	color: white;
+	font-family: Arial;
+	font-size: 10px;
+}
+.segundoBtn{
+	background-color: #EAD825;
+	color: white;
+	padding-bottom: 9px;
+	padding-top: 8px;
+	padding-left: 14px;
+	padding-right: 14px;
+	border-radius: 8px;
+	border-color: #EAD825;
+
+
+}
+.tercerBtn{
+	background-color: #D78110;
+	color: white;
+	padding-bottom: 8px;
+	padding-top: 8px;
+	padding-left: 26px;
+	padding-right: 26px;
+	border-radius: 8px;
+	border-color: #D78110;
+	
+}
+/*http://www.antocas.com/boton-buscar-animado-con-html5-css3-tipo-smartphone/* ver pag cod para aplicar animacion de lupa/
